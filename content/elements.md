@@ -1,9 +1,9 @@
 ---
 title: Elements
 subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+layout: elements
 menu:
   main:
-    name: Elements
     weight: 3
-layout: elements
+
 ---
