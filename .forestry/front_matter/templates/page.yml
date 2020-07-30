@@ -38,4 +38,5 @@ fields:
   config:
     required: true
 pages:
+- content/chi-siamo.md
 - content/generic.md
